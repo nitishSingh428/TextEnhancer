@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/TextEnhancer/static/css/main.b7f00895.css",
-    "main.js": "/TextEnhancer/static/js/main.50221b7e.js",
-    "static/js/787.4917b094.chunk.js": "/TextEnhancer/static/js/787.4917b094.chunk.js",
-    "index.html": "/TextEnhancer/index.html",
-    "main.b7f00895.css.map": "/TextEnhancer/static/css/main.b7f00895.css.map",
-    "main.50221b7e.js.map": "/TextEnhancer/static/js/main.50221b7e.js.map",
-    "787.4917b094.chunk.js.map": "/TextEnhancer/static/js/787.4917b094.chunk.js.map"
+    "main.css": "/TextTools/static/css/main.b7f00895.css",
+    "main.js": "/TextTools/static/js/main.cd2ef73f.js",
+    "static/js/787.4917b094.chunk.js": "/TextTools/static/js/787.4917b094.chunk.js",
+    "index.html": "/TextTools/index.html",
+    "main.b7f00895.css.map": "/TextTools/static/css/main.b7f00895.css.map",
+    "main.cd2ef73f.js.map": "/TextTools/static/js/main.cd2ef73f.js.map",
+    "787.4917b094.chunk.js.map": "/TextTools/static/js/787.4917b094.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b7f00895.css",
-    "static/js/main.50221b7e.js"
+    "static/js/main.cd2ef73f.js"
   ]
 }
